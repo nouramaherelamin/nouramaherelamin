@@ -33,21 +33,6 @@ I'm a Computer Science student at the Egyptian Chinese University with a passion
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-## 📜 Certifications
-
-| Course Title                            | Provider                                |
-| :-------------------------------------- | :-------------------------------------- |
-| AI for Beginners                        | HP Life                                 |
-| Database Fundamentals                   | Mahara Tech                             |
-| HTML & CSS                              | Mahara Tech                             |
-| HTML                                    | Cursa                                   |
-| Introduction to C++                     | Sololearn                               |
-| C++ Intermediate                        | Sololearn                               |
-| C++ Programming                         | Saylor Academy                          |
-| Object-Oriented Programming (OOP) Using C++ | Sololearn                               |
-| Introduction to Python                  | Edraak  /  Saylor Academy  /  Sololearn         |
-| Python Programming Basics               | Mahara Tech                             |
-| Python Intermediate                     | Sololearn                               |
 
 ## 📫 Let's Connect
 
