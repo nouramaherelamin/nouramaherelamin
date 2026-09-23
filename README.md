@@ -73,7 +73,7 @@ This profile reflects my current journey and is designed to grow alongside it.
 
 > More projects, experiments, and ongoing work are available on my GitHub.
 
-[**Explore my repositories →**](https://github.com/nouramaherelamin)
+[**Explore my repositories →**]([https://github.com/nouramaherelamin](https://github.com/nouramaherelamin?tab=repositories))
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
