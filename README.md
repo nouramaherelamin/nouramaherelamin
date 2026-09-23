@@ -1,9 +1,6 @@
 <div align="center">
 
 <br/><br/>
-
-<img src="https://github.com/nouramaherelamin/nouramaherelamin/blob/main/gggg.gif?raw=true" width="40%" alt="Developer working"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=I'm+Noura+Maher;Technology+Enthusiast;Problem+Solver;Builder+%7C+Continuous+Learner;Exploring+Technology+Through+Projects)](https://git.io/typing-svg)
 
 <p align="center">
