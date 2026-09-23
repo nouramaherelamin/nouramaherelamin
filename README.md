@@ -16,9 +16,6 @@
   <a href="mailto:nouramaher100@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.youtube.com/@nouram.w">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
 </p>
 
 </div>
@@ -62,6 +59,7 @@ This profile reflects my current journey and is designed to grow alongside it.
 <p align="center">
   <img src="https://stats.pphat.top/languages?username=nouramaherelamin" alt="Top Language">
 </p>
+
 ---
 
 ## Featured Projects
@@ -82,21 +80,3 @@ This profile reflects my current journey and is designed to grow alongside it.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-
----
-
-## Let's Connect
-
-I'm always open to connecting around technology, projects, learning, and collaboration.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nouramaherelamin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/nouramaherelamin">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:nouramaher100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
